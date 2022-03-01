@@ -1,0 +1,5 @@
+@extends('pages.dashboard.layouts.partial.footer')
+@extends('pages.dashboard.layouts.partial.mainpage')
+@extends('pages.dashboard.layouts.partial.topbar')
+@extends('pages.dashboard.layouts.partial.leftsidebar')
+@extends('pages.dashboard.layouts.partial.header')
